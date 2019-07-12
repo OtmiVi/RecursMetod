@@ -1,0 +1,7 @@
+E:\c#\RecursMetod\RecursMetod\bin\Debug\RecursMetod.exe.config
+E:\c#\RecursMetod\RecursMetod\bin\Debug\RecursMetod.exe
+E:\c#\RecursMetod\RecursMetod\bin\Debug\RecursMetod.pdb
+E:\c#\RecursMetod\RecursMetod\obj\Debug\RecursMetod.csprojAssemblyReference.cache
+E:\c#\RecursMetod\RecursMetod\obj\Debug\RecursMetod.csproj.CoreCompileInputs.cache
+E:\c#\RecursMetod\RecursMetod\obj\Debug\RecursMetod.exe
+E:\c#\RecursMetod\RecursMetod\obj\Debug\RecursMetod.pdb
